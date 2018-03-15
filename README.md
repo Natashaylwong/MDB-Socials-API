@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # meme-api
 Meme API for Training Program
 
@@ -37,3 +38,6 @@ export FIREBASE_STORAGE_URL="<project id goes here>.appspot.com"
 3. [connect your github repo](https://devcenter.heroku.com/articles/github-integration) with auto deploys for master pushes
 4. add environment [variables](https://devcenter.heroku.com/articles/config-vars#setting-up-config-vars-for-a-deployed-application) (from .env file)
 5. manually deploy
+=======
+# MDB-Socials-API
+>>>>>>> 69baaa581da9526e4fe427752904151ca777d80b
